@@ -1,0 +1,17 @@
+<svg width="99" height="108" viewBox="0 0 99 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Adaptive logo - uses currentColor for automatic theme support -->
+  <!-- Center circle -->
+  <circle cx="49.5" cy="54" r="11" fill="currentColor"/>
+  <!-- Top circle -->
+  <circle cx="49.5" cy="13.5" r="11" fill="currentColor"/>
+  <!-- Top right circle -->
+  <circle cx="85.5" cy="33.75" r="11" fill="currentColor"/>
+  <!-- Bottom right circle -->
+  <circle cx="85.5" cy="74.25" r="11" fill="currentColor"/>
+  <!-- Bottom circle -->
+  <circle cx="49.5" cy="94.5" r="11" fill="currentColor"/>
+  <!-- Bottom left circle -->
+  <circle cx="13.5" cy="74.25" r="11" fill="currentColor"/>
+  <!-- Top left circle -->
+  <circle cx="13.5" cy="33.75" r="11" fill="currentColor"/>
+</svg>
