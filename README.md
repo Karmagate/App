@@ -1,6 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://karmagate.com"><img src="https://raw.githubusercontent.com/Karmagate/App/main/logo.svg" width="200px" alt="KarmaGate"></a>
+  <a href="https://karmagate.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karmagate/App/main/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karmagate/App/main/logo-light.svg">
+      <img src="https://raw.githubusercontent.com/Karmagate/App/main/logo-dark.svg" width="200px" alt="KarmaGate">
+    </picture>
+  </a>
   <br>
   <br>
   KarmaGate
